@@ -1,0 +1,31 @@
+// Reset
+* {
+  margin: 0;
+  padding: 0;
+}
+
+// General styles
+body {
+  font-family: "Dosis", sans-serif;
+  line-height: 1.6;
+  background: $white-color;
+}
+
+a {
+  text-decoration: none;
+  color: $dark-color;
+}
+
+ul {
+  list-style: none;
+}
+
+h2,
+h3,
+h4 {
+  text-transform: uppercase;
+}
+
+img {
+  width: 100%;
+}
